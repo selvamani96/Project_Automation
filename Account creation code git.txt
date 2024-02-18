@@ -9,3 +9,5 @@ Author : Selvamani
 3.Enter Url code
 
 4.Enter user name and password code
+
+5.Pressing login button.
