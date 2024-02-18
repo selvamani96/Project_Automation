@@ -11,3 +11,5 @@ Author : Selvamani
 4.Enter user name and password code
 
 5.Pressing login button.
+
+6.Checking status of which device is lastly logged into code
